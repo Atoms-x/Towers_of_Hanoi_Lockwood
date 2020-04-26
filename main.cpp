@@ -1,8 +1,9 @@
-/*Dr. Tyson 1437 Programming Fundamentals II
+/*Dr. Tyson 1437 Programming Fundamentals II - TCCD
   Chet Lockwood
   25 APRIL 2020
   IDE: Repl.it 
-  Program:  Factorial recursion
+  Program:  Towers of Hanoi by Recursion
+  Learning Point: To learn recursion by solving the Towers of Hanoi
   https://repl.it/@ChetLockwood/TowersofHanoiLockwood
 */
 
